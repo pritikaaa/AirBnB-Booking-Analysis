@@ -181,7 +181,7 @@ Benefits:
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 ### 1. Distribution of Listing Prices
 
@@ -289,7 +289,7 @@ Provides insights into market growth and seasonal demand patterns.
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 ### Price Distribution
 
@@ -318,7 +318,7 @@ Provides insights into market growth and seasonal demand patterns.
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 ### For Airbnb Hosts
 
@@ -358,7 +358,7 @@ Duplicate listings had to be removed to ensure accurate results.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential enhancements include:
 
@@ -371,7 +371,7 @@ Potential enhancements include:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Airbnb-Booking-Analysis/
@@ -438,6 +438,6 @@ The findings can help hosts optimize pricing, assist travelers in making informe
 
 ---
 
-### 👩‍💻 Author
+###  Author
 
 **Priti Ranabhat**
