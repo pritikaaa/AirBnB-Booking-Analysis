@@ -1,4 +1,4 @@
-# 🏠 Airbnb Booking Analysis
+# Airbnb Booking Analysis
 
 ##  Overview
 
@@ -57,7 +57,7 @@ The dataset contains information such as:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -338,7 +338,7 @@ Provides insights into market growth and seasonal demand patterns.
 
 ---
 
-## ⚠ Challenges Encountered
+##  Challenges Encountered
 
 ### Missing Data
 
@@ -385,7 +385,7 @@ Airbnb-Booking-Analysis/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Clone the Repository
 
